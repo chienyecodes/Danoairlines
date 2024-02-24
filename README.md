@@ -4,7 +4,7 @@
 This Data Analysis project aims to provide insights for Dano Airlines, a (fictional) Uk-based airline headquartered in London, United Kingdom whose latest passenger survey results show a dip in satisfaction rate to below 50% for the first time ever. By analysing various aspects of the survey results, I seek to analyze the data to find the key areas for the leadership team to focus on and give data driven recommendations and insights to get back on track. 
 
 **_Disclaimer_** : _All datasets and reports do not represent any comapney, Institution or country, but is a dummy dataset to demonstrate capabilities on Power BI._
-![](Capstone_2_Dashboard.png)
+![](Capstone_2_dashboard_2.png)
 This report consists a Dashboard Report (1 page)
 
 ## Data Sources
@@ -48,13 +48,21 @@ EDA involved exploring the survey results to answer key questions, such as:
 ## Results/Findings
 1. Passengers are unsatisfied or neutral about 6 of 16 areas evaluated in the survey. These areas received less than 3 on a 1-5 scale. These are Ease of Online Booking, Online Boarding, In-flight Entertainment, Cleanliness,Food and drinks, Gate location and Legroom Service.
 2. Middle age passengers are more satisfied across most areas in comparison to old and adolescents passengers. Male and Females are mostly similar in that they are neutral or unsatisfied in all areas except when they are travelling for business.
-3. Middle aged and elderly passengers, become less satisfied with in-flight entertainment on longer flights.This may point to low inclusivity in the range of entertainment available for adult ages.
+3. Middle aged and elderly passengers, become less satisfied with in-flight entertainment on longer flights.
 4. Business Class passengers are the least satisfied with legroom service and cleanliness. In addition, passengers travelling for business purposes where satisfied with all areas except arrival delay. While most passengers travelling for personal reasons where unsatisfied or neutral on all areas. It could be argued that business passengers are usually in a hurry and focused on their destinations so pay no mind to small details, while those travelling for personal reasons like vacations are more mindful of the whole flight experience.
 5. Most elderly and young passengers were neutral or dissatisfied with the online booking and online boarding process. This may denote that the websites' booking process is hard to understand for the average inexperienced user.
 6. The elderly were also most dissatisfied with the Gate Location, most especially on longer flights. This may bee due to DIstance from the check-in or lounge, or other on-site factors that make the gate hard to locate.
 
 ## Recommendations
-lorem ipsum
+Based on the analysis, I recommend the following actions to improve key areas:
+- Departure and arrival delays, implementing data-driven flight scheduling by leveraging data analytics and machine learning algorithms to help optimize flight schedules.
+- Legroom Service, consider reconfiguring seating arrangements to provide more legroom
+- Cleanliness, implement stricter cleaning protocols to ensure aircraft cabins are thoroughly cleaned between flights.
+- Food and drinks, an understanding of customer preferences, needs and expectations is needed to innovate the menu and ensure timely delivery of refreshments during the flight, minimizing wait times and inconvenience for passengers.
+- In-flight entertainment, additional inclusive range of entertainment available for adult ages.
+- Online Boarding, investigate what makes the process difficult for users.
+- Ease of online booking, improve user interface for better user experience.
+
 
 
 ## Limitations
